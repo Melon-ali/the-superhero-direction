@@ -1,0 +1,12 @@
+.card-img-top {
+  width: 50%;
+  height: 50%;
+  border-radius: 50%;
+  padding-top: 5px;
+}
+.background {
+  background-color: rgba(75, 224, 224, 0.849);
+}
+.fas {
+  margin-right: 10px;
+}
